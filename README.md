@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## Olá eu sou o Ruan Victor
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruanv123&show_icons=true&theme=radical)
+- 🔭 I’m currently working on stand-alone project
+- 🌱 I’m currently learning Javascript
+-  📫 How to reach me: <a href="https://www.linkedin.com/in/ruan-victor-b3738322b/" target="_Blank">Linkedin</a>
+
+####	:construction: perfil em desenvolvimento	:construction:
 <!--
 **Ruanv123/Ruanv123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
