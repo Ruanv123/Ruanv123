@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruanv123&show_icons=true&theme=radical)
 - 🔭 I’m currently working on stand-alone project
 - 🌱 I’m currently learning Javascript
--  📫 How to reach me: <a href="https://www.linkedin.com/in/ruan-victor-b3738322b/" target="_Blank">Linkedin</a>
+-  📫 How to reach me: <a href="https://www.linkedin.com/in/ruan-victor-b3738322b/" target="__Blank">Linkedin</a>
 
 ####	:construction: perfil em desenvolvimento	:construction:
 <!--
