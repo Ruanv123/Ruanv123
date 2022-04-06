@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on [Lemonade Shop](https://ruanv123.github.io/Lemonade-Shop/index.html)
-- 📇 My portifolio [Portifolio](https://ruanv123.github.io/meu-portifolio/#inicio)
+- 📇 My portifolio [Portifolio](https://ruanv123.github.io/meu-portifolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
