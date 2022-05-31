@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Lemonade Shop](https://ruanv123.github.io/Lemonade-Shop/index.html)
 - 📇 My portifolio [Portifolio](https://ruanv123.github.io/meu-portifolio/)
-- site de sofa {Not finalized} (https://ruanv123.github.io/loja-de-sofa/)
+- site de sofa [Sofá store] (https://ruanv123.github.io/loja-de-sofa/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
