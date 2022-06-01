@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [portifolio](https://ruanv123.github.io/meu-portifolio/)
 
-- My project [Contador] (https://ruanv123.github.io/Projeto-Contador/)
+- My project [Contador](https://ruanv123.github.io/Projeto-Contador/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
