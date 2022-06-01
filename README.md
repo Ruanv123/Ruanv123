@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript, java and Python**
 
-- 👨‍💻 All of my projects are available at [https://ruanv123.github.io/meu-portifolio/](https://ruanv123.github.io/meu-portifolio/)
+- 👨‍💻 All of my projects are available at [portifolio](https://ruanv123.github.io/meu-portifolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
