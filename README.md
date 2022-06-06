@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanv123&label=Profile%20views&color=0e75b6&style=flat" alt="ruanv123" /> </p>
 
-- 🔭 I’m currently working on [lemonade shop](https://ruanv123.github.io/Lemonade-Shop/index.html)
+- 🔭 I’m currently working on [lemonade shop]()
 
 - 🌱 I’m currently learning **Javascript, java and Python**
 
-- 👨‍💻 All of my projects are available at [portifolio](https://ruanv123.github.io/meu-portifolio/)
-
-- My project [Contador](https://ruanv123.github.io/Projeto-Contador/)
-- Project [Loja de sofa](https://ruanv123.github.io/loja-de-sofa/)
-- Formulario de Cadastro [Cadastro Banco Inter](https://primeirositeruan.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [portifolio]()
 
 
 <h3 align="left">Connect with me:</h3>
