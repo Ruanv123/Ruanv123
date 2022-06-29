@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript, java and Python**
 
-- 👨‍💻 All of my projects are available at [portifolio](https://ruanv123.github.io/Portifolio/)
+- 👨‍💻 All of my projects are available at [portifolio](https://portifolio-ruan-victor.netlify.app/)
 
 - 
 
