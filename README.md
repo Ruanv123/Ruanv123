@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanv123&label=Profile%20views&color=0e75b6&style=flat" alt="ruanv123" /> </p>
 
-- 🔭 I’m currently working on [lemonade Shop]()
+- 🔭 I’m currently working on [Divine Store](https://divinestore.netlify.app)
 
-- 🌱 I’m currently learning **Javascript, java and Python**
+- 🌱 I’m currently learning **Javascript, php e mysql**
 
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-ruan-victor.netlify.app/)
 
