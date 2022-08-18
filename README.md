@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [Divine Store](https://divinestore.netlify.app)
 
+-  I’m currently working on [Divine Store 2.0](https://divinestore.netlify.app)
+
 - 🌱 I’m currently learning **Javascript, php e mysql**
 
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio-ruan-victor.netlify.app/)
