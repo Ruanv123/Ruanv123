@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanv123&label=Profile%20views&color=0e75b6&style=flat" alt="ruanv123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruanv123" alt="ruanv123" /></a> </p>
-
 - 🔭 I’m currently working on [Syren Store](https://syren.netlify.app/)
 
 - 🌱 I’m currently learning **Vuejs and React js**
