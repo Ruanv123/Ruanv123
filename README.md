@@ -1,7 +1,7 @@
 Hi My name is Ruan Victor 👋
 ===================================================================================================================================
 
-I am Front End develop
+I am Fullstack developer
 ----------------------
 
 * 🌍  I'm based in Belo Horizonte, Brasil
