@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Docker</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Docker<br>🦉[My Blog](https://ruanvictordev.vercel.app/) </p>
 
 ###
 
