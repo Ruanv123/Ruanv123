@@ -10,13 +10,9 @@
 
 ###
 
-<p align="left">langs</p>
-
-###
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nestjs,express,nodejs,html,css" />
+    <img src="https://skillicons.dev/icons?i=go,js,ts,nextjs,react,nestjs,express,nodejs,html,css,postgres,prisma,tailwind,docker" />
   </a>
 </p>
 
