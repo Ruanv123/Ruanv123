@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ruan Victor and I'm a  Developer from Brasil</p>
+<p align="left">My name is Ruan Victor and I'm a Software Engenieer from Brasil</p>
 
 ###
 
