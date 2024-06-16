@@ -4,6 +4,8 @@
 
 <p align="left">My name is Ruan Victor and I'm a Software Engenieer from Brasil</p>
 
+I'm a nestjs developer especialist
+
 ###
 
 <h2 align="left">I'm coding with these tecnologies</h2>
