@@ -14,7 +14,7 @@ I'm a nestjs developer especialist
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,c,js,ts,nextjs,react,nestjs,elysia,express,nodejs,html,css,postgres,prisma,tailwind,docker,bun,jest,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=go,c,js,ts,nextjs,react,nestjs,elysia,express,nodejs,html,css,postgres,prisma,tailwind,docker,bun,jest,rabbitmq,vite,vitest,vue,supabase" />
   </a>
 </p>
 
