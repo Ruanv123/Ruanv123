@@ -3,8 +3,7 @@
 ###
 
 <p align="left">My name is Ruan Victor and I'm a Software Engenieer from Brasil</p>
-
-I'm a nestjs developer especialist
+Front end developer specialist
 
 ###
 
