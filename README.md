@@ -1,17 +1,16 @@
-<h1 align="left">Hi  👋</h1>
+## 👋 Olá, meu nome é Ruan Victor!
+
+Me chamo Ruan e moro no Brasil. Sou desenvolvedor Full Stack com experiência em desenvolvimento Next.js, React e PHP
+
+🔭 Atualmente estou desenvolvendo uma plataforma de gestão de imóveis para pessoa fisica.
+
+💬 Caso queria entrar em contato comigo me envie uma mensagem no [linkedin](https://www.linkedin.com/in/ruanv123/).
 
 ###
 
-<p align="left">My name is Ruan Victor and I'm a Software Engenieer from Brasil</p>
-Front end developer specialist
+## 🚀 Minhas Skills
 
-###
-
-<h2 align="left">I'm coding with these tecnologies</h2>
-
-###
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,c,js,ts,nextjs,react,nestjs,elysia,express,nodejs,html,css,postgres,prisma,tailwind,docker,bun,jest,rabbitmq,vite,vitest,vue,supabase" />
   </a>
