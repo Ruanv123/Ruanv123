@@ -24,3 +24,7 @@ Me chamo Ruan e moro no Brasil. Sou desenvolvedor Full Stack com experiência em
 ###
 
 [![card](https://github-readme-stats.vercel.app/api?username=Ruanv123&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruanv123&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
