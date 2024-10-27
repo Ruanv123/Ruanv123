@@ -2,7 +2,7 @@
 
 Me chamo Ruan e moro no Brasil. Sou desenvolvedor Full Stack com experiência em desenvolvimento Next.js, React e PHP
 
-🔭 Atualmente estou desenvolvendo uma plataforma de gestão de imóveis para pessoa fisica.
+🔭 Atualmente estou estudando C lang.
 
 💬 Caso queria entrar em contato comigo me envie uma mensagem no [linkedin](https://www.linkedin.com/in/ruanv123/).
 
