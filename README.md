@@ -30,7 +30,7 @@ My name is Ruan and I live in Brazil. I am a Full Stack developer with experienc
 
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=react&margin-w=15&margin-h=15"/>
 </div>
   
 
