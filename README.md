@@ -22,11 +22,17 @@ My name is Ruan and I live in Brazil. I am a Full Stack developer with experienc
 <h2 align="left">📊 My Stats</h2>
 
 <div align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ruanv123&show_icons=true&theme=react" alt="Ruan's GitHub Stats">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanv123&layout=compact&theme=react" alt="Ruan's Top Languages">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ruanv123&show_icons=true&theme=react" alt="Ruan's GitHub Stats">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanv123&layout=compact&theme=react" alt="Ruan's Top Languages">
 </div>
 
 ###
+
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
+  
 
 <!-- <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruanv123&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
