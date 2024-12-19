@@ -1,14 +1,14 @@
-## 👋 Olá, meu nome é Ruan Victor!
+## 👋 Hello, my name is Ruan Victor!
 
-Me chamo Ruan e moro no Brasil. Sou desenvolvedor Full Stack com experiência em desenvolvimento Next.js, React e PHP
+My name is Ruan and I live in Brazil. I am a Full Stack developer with experience in Next.js, React and PHP development
 
-🔭 Atualmente estou estudando C lang.
+🔭 I'm currently studying C and Java.
 
-💬 Caso queria entrar em contato comigo me envie uma mensagem no [linkedin](https://www.linkedin.com/in/ruanv123/).
+💬 If you would like to contact me, send me a message on [linkedin](https://www.linkedin.com/in/ruanv123/).
 
 ###
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -19,12 +19,16 @@ Me chamo Ruan e moro no Brasil. Sou desenvolvedor Full Stack com experiência em
 ###
 
 
-<h2 align="left">Stats</h2>
+<h2 align="left">📊 My Stats</h2>
+
+<div align="left">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ruanv123&show_icons=true&theme=react" alt="Ruan's GitHub Stats">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanv123&layout=compact&theme=react" alt="Ruan's Top Languages">
+</div>
 
 ###
 
-[![card](https://github-readme-stats.vercel.app/api?username=Ruanv123&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruanv123&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+</div> -->
 
