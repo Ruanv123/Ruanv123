@@ -12,7 +12,7 @@ My name is Ruan and I live in Brazil. I am a Full Stack developer with experienc
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,c,js,ts,nextjs,react,nestjs,elysia,express,nodejs,html,css,postgres,prisma,tailwind,docker,bun,jest,rabbitmq,vite,vitest,vue,supabase" />
+    <img src="https://skillicons.dev/icons?i=go,java,js,ts,html,css,nodejs,react,nextjs,nestjs,express,spring,postgres,docker,rabbitmq" />
   </a>
 </p>
 
